@@ -4,8 +4,11 @@
 class array
 {
     public:
-        array();
+        array( int = 1 );
         ~array();
+    private:
+        int * size;
+        int * arreglo;
 };
 
 #endif
