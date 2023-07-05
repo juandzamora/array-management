@@ -1,0 +1,1 @@
+An in process librarie for array management in c++ 
